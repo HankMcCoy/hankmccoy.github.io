@@ -34,11 +34,11 @@ for hosting your own version of Nerds n' Such:
 ### Host it someplace quiet
 
 The very first Nerds n' Such took place at a favorite pub of mine. While the
-food and drink were magnificent (seriously, if you ever find yourself in
-Bellingham do yourself a favor and drop by [The Local][local]) the background
-noise level was high enough to make conversation between the 6-8 of us
-difficult. I hosted later ones at my house and the superior ease of disucssion
-far outweighed the reduction in food and drink quality.
+food and drink were magnificent (seriously, if you're ever in Bellingham do
+yourself a favor and drop by [The Local][local]) the background noise level was
+high enough to make conversation between the 6-8 of us difficult. I hosted
+later ones at my house and the superior ease of disucssion far outweighed the
+reduction in food and drink quality.
 
 ### Keep the group fairly small
 
