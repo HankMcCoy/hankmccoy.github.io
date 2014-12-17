@@ -22,6 +22,16 @@ h6 {
 	@include font-size(14);
 }
 
+h1, h2 {
+	margin-top: 1.6rem;
+	margin-bottom: 1rem;
+}
+
+h3, h4, h5, h6 {
+	margin-top: 1.2rem;
+	margin-bottom: 0.7rem;
+}
+
 // Links
 // --------------------------------------------------
 a { 
@@ -111,7 +121,7 @@ blockquote {
 // Paragraphs
 // --------------------------------------------------
 p {
-	margin: 0 0 $indent-var;
+	margin: 0 0 1.1rem;
 	// sibling indentation
   @if $paragraph-indent == true {
     & + p {
