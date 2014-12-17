@@ -2,7 +2,7 @@
 
 title:            Thomas Beirne
 locale:           en_US
-url:              http://thomasbeirne.com
+url:              #http://thomasbeirne.com
 
 
 # Jekyll configuration
@@ -35,7 +35,7 @@ owner:
   facebook:  
   google:
     plus: 
-    analytics: 
+    analytics: UA-57760817-1
     verify: 
     ad-client: 
     ad-slot: 
