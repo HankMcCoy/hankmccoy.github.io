@@ -26,10 +26,11 @@ Nerds n' Such.
 
 The premise of a Nerds n' Such gathering is simple: assemble a group of people,
 grab some drinks and snacks, and go around in a circle having each attendee
-state a thing that they love and why they love it. The only hard and fast rule
-of Nerds n' Such is that no one present is allowed to make fun of or condemn
-someone for what they love or how they love it. Here are a few pieces of advice
-for hosting your own version of Nerds n' Such:
+state a thing that they love and why they love it. The thing shared can be
+literally anything; a TV show, a book, a song, a place, a philosophy, etc. The
+only hard and fast rule of Nerds n' Such is that no one is allowed to make fun
+of or condemn someone for what they love or why they love it. Here are a few
+pieces of advice for hosting your own version of Nerds n' Such:
 
 ### Host it someplace quiet
 
