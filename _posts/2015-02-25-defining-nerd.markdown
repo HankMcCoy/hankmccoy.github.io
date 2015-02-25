@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Defining Nerd"
-excerpt: "The question of what nerd culture is and to what extent it is a good or a bad
-          thing has become more relevant of late."
+excerpt: "Telling someone they're not a 'real' nerd because they don't match
+          your arbitrary measurement is an inherently ignorant and mean thing
+          to say."
 date:   2015-02-25 13:58:12
 tags: general
 ---
