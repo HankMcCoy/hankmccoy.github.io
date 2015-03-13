@@ -48,3 +48,18 @@
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a {
 	@include transition(all .2s ease);
 }
+
+/* Custom stuff ========================================= */
+
+@media (min-width: 1600px) {
+  .float-left-half, .float-right-half {
+    width: 48%;
+    margin-top: -1.1rem;
+  }
+  .float-left-half {
+    float: left;
+  }
+  .float-right-half {
+    float: right;
+  }
+}
