@@ -51,7 +51,7 @@ Node.js, hapi, React, and Fluxxor.
 * Coordinated with leadership and graphic design departments on feature designs.
 * Set up continuous integration with Circle CI and AWS using Docker.
 
-<h3>Faithlife <div class="job-time">(Jun 2014—Mar 2014)</div></h3>
+<h3>Faithlife <div class="job-time">(Jun 2010—Mar 2014)</div></h3>
 
 I worked on a variety of projects and teams using ASP.NET MVC, C#, JavaScript,
 and Sencha Touch for Faithlife, a worldwide leader in electronic tools and
