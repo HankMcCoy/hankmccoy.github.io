@@ -1,9 +1,7 @@
 ---
 layout: post
 title:  "Defining Nerd"
-excerpt: "Telling someone they're not a 'real' nerd because they don't match
-          your arbitrary measurement is an inherently ignorant and mean thing
-          to say."
+excerpt: "nerd, n. — A person who cares for something both passionately and generously."
 date:   2015-02-25 13:58:12
 tags: general
 ---
